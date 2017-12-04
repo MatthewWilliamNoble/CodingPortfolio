@@ -8,11 +8,11 @@ This project was my first. Its intention was to allow me to demonstrate my skill
 *  Manipulating and merging DataFrames with pandas.
 *  Analysing and visualising data with matplotlib.
 *  Machine-learning with SciKit-Learn.    
-*  Report writing.    
+*  Report writing and information presentation.    
 
 The Python files used to perform the investigation and generate the plots are included for download in the "PythonCodes" folder.    
 
-The next two projects I will undertake seek to demonstrate more heavily machine-learning applications and applied probability and statistics. These two projects are [WhoSurvivedTheTitanic](https://github.com/MatthewWilliamNoble/CodingPortfolio/tree/master/WhoSurvivedTheTitanic) and [LetsPlayAGame](https://github.com/MatthewWilliamNoble/CodingPortfolio/tree/master/LetsPlayAGame) respectively.
+The next two projects I will undertake seek to demonstrate and focus more heavily on machine-learning applications and applied probability and statistics. These two projects are [WhoSurvivedTheTitanic](https://github.com/MatthewWilliamNoble/CodingPortfolio/tree/master/WhoSurvivedTheTitanic) and [LetsPlayAGame](https://github.com/MatthewWilliamNoble/CodingPortfolio/tree/master/LetsPlayAGame) respectively.
 
 All the best,     
 Matthew
