@@ -6,4 +6,6 @@ Hello, World! The following directory was created to house all of the coding cha
 
 ## Contents
 
-  1) ERS
+  1) VivaCity Labs
+  2) ERS
+  3) SKY
