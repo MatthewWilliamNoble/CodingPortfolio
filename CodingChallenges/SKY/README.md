@@ -1,5 +1,15 @@
 # SKY
 
+## Submitted: 2018/01/15
+
+## Exploratory and Predictive Data Analysis 
+
+For this analysis you will use the road safety data available from here: 
+
+http://data.gov.uk/dataset/road-accidents-safety-data
+
+Please use latest 5 years (or more) STATS19 data (accident, causalities and vehicles tables) for 2012 to 2016. 
+
 ## Description 
 
 These files provide detailed road safety data about the circumstances of personal injury road accidents in GB, the types (including Make and Model) of vehicles involved and the consequential casualties. The statistics relate only to personal injury accidents on public roads that are reported to the police, and subsequently recorded, using the STATS19 accident reporting form. 
