@@ -1,3 +1,3 @@
 # [HackerRank](https://www.hackerrank.com/dashboard)
 
-The following repo will house completed challenges from the various Recommended Tracks.
+The following repo will house completed challenges from the various tracks.
