@@ -1,7 +1,3 @@
-# [Kaggle](https://www.kaggle.com/)
+# [HackerRank](https://www.hackerrank.com/dashboard)
 
-In its own words:
-
-> The Home of Data Science and Machine Learning
-
-The following repo will house completed tutorials and competitions from the site.
+The following repo will house completed challenges from the various Recommended Tracks.
