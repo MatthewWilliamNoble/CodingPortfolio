@@ -1,7 +1,12 @@
 # [Kaggle](https://www.kaggle.com/)
 
-In its own words:
+Hello, World! Kaggle, in its own words:
 
 > The Home of Data Science and Machine Learning
 
-The following repo will house completed tutorials and competitions from the site.
+It is a phenomenal resource to learn from and compete against the best data scientists and machine learning engineers in the World.
+
+This repo will house my competition entries and completed tutorials from the various Tracks. 
+
+All the best,     
+Matthew
