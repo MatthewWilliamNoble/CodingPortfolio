@@ -6,5 +6,6 @@ Hello, World! DataCamp, as described in their own words:
 
 This repo will house my coded solutions (where relevant) and case studies.
 
-All the best,
+All the best,    
+
 Matthew
