@@ -1,3 +1,4 @@
-# This is a title
+# [Kaggle Learning Tracks](https://www.kaggle.com/learn/overview)
 
-QWERTY
+> **Hands-On Data Science Education** 
+> Learn the basics to confidently start a new career or upgrade your skills.
