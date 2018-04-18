@@ -1,3 +1,3 @@
-# This is a title
+# Python
 
-This is some text.
+The following directory houses my solutions to the ProjectEuler questions using Python.
