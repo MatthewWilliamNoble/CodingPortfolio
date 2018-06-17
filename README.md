@@ -1,2 +1,2 @@
-# CodingPortfolio
-An online portfolio of various projects, coding challenges, and exercises I have done in order to showcase my proficency as both a coder and a Data Scientist.
+# Miscellaneous Coding Portfolio
+An online portfolio of various miscellaneous projects, coding challenges, and exercises I have done. It needs to be sorted into individual repos and better organised when I have time.
